@@ -12,7 +12,7 @@ HOW TO RUN THE CODE:
 
 STEP 1: Open your vs code terminal (ctrl + j)
 
-STEP 2: Run the command <npm start> 
+STEP 2: Run the command "npm start"
   
   : the following will be seen-
   
@@ -26,7 +26,7 @@ STEP 2: Run the command <npm start>
   
   
   
-STEP 3: Locate the port by typing on your browser <localhost:3000>
+STEP 3: Locate the port by typing on your browser "localhost:3000"
   
 STEP 4: Then you will see your code running :>
   
